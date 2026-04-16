@@ -18,10 +18,10 @@ I received my Master's degree in Communication and Data Engineering from [Paris-
 - **Tensor Decomposition**: Novel tensor decomposition approaches to uncover hidden features in high-dimensional biomedical data.
 
 ## News
-- **Apr 2026**: Started an intership at [PRISME Laboratory](https://www.univ-orleans.fr/en/prisme).
-- **Aug 2025**: Started PhD program at VNU-UET in Communication Engineering.
-- **Dec 2024**: Paper on Alzheimer's disease classification using topographic maps accepted at APSIPA ASC 2024, Macau, China.
-- **Oct 2024**: Journal paper on precise ablation zone segmentation published in *Medical Physics* (2024).
+- **Apr 2026**: Started an internship at [PRISME Laboratory](https://www.univ-orleans.fr/en/prisme).
+- **Aug 2025**: Started PhD program at [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/) in Communication Engineering.
+- **Dec 2024**: Presented the work "New approach for Alzheimer’s disease classification using topographic maps and deep learning model" at APSIPA ASC 2024, Macau, China.
+- **Oct 2024**: Journal paper "Precise ablation zone segmentation on CT images after liver cancer ablation using semi-automatic CNN-based segmentation" published in *Medical Physics* (2024).
 
 ## Selected Publications
 
