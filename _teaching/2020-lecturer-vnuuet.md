@@ -21,7 +21,7 @@ Lecturing undergraduate courses at VNU University of Engineering and Technology 
 
 ## Thesis Supervision
 
-Co-supervised five undergraduate theses on medical imaging, machine learning, and deep learning topics. Provided academic support including research methodology and academic writing through weekly reviews. All supervised projects achieved excellent scores (above 9.0/10).
+Co-supervised five undergraduate theses on medical imaging, machine learning, and deep learning topics. Provided academic support including research methodology and academic writing through weekly reviews.
 
 ## Curriculum Development
 
