@@ -9,25 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/lqanh_cv.pdf)
-
 Education
 ======
 * **PhD Student in Communication Engineering**, VNU University of Engineering and Technology, Aug 2025 – Present
   * Thesis: *Spectral analysis and federated learning for neurological disorders*
   * Supervisors: Prof. Nguyen Linh Trung, Prof. Karim Abed-Meraim
 * **Master's Degree in Communication and Data Engineering**, Paris-Saclay University, Nov 2022 – Jan 2024
-  * GPA: 14.24/20
-  * Thesis: *"Point Cloud Compression for Humans and Machines"* (Grade: 16.3/20)
+  * Thesis: *"Point Cloud Compression for Humans and Machines"*
 * **Bachelor of Science in Electronics and Communication Engineering**, VNU University of Engineering and Technology, Sep 2016 – Jun 2020
-  * GPA: 3.43/4.0 (Top 10% of graduate)
-  * Thesis: *"Non-contact Measurement of Heart and Respiration Rates System"* (Grade: 9.8/10)
+  * Thesis: *"Non-contact Measurement of Heart and Respiration Rates System"*
 
 Work Experience
 ======
 * **Lecturer**, VNU University of Engineering and Technology, Aug 2020 – Present, Hanoi, Vietnam
   * Teach courses: Introduction to Programming (INT1008), Data Structures and Algorithms (INT2210), Data Analysis with Python (AIT2003), Digital Image Processing and Analysis (AIT3002), Signals and Systems (ELT2035), and Digital Signal Processing (ELT3144).
-  * Co-supervised five undergraduate theses on medical imaging, machine learning, and deep learning topics (all projects achieved excellent scores above 9.0/10).
+  * Co-supervised five undergraduate theses on medical imaging, machine learning, and deep learning topics.
   * Cooperate with other lecturers to develop lecture materials and tailor teaching strategies.
 
 Research Experience

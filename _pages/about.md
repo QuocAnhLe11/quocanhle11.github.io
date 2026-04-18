@@ -13,9 +13,9 @@ I received my Master's degree in Communication and Data Engineering from [Paris-
 
 ## Research Interests
 
-- **Medical Image Analysis**: Image processing and deep learning for lesion classification, detection, and segmentation to assist physicians in diagnosis.
-- **Biomedical Signal Processing**: Advanced signal processing methods for feature engineering from biomedical signals (EEG, radar-based vital signs) to improve disease detection and prognosis.
-- **Tensor Decomposition**: Novel tensor decomposition approaches to uncover hidden features in high-dimensional biomedical data.
+- **Medical Image Analysis**: Image processing and deep learning for classification, detection, and segmentation to assist physicians in diagnosis.
+- **Biomedical Signal Processing**: Advanced signal processing methods for feature engineering from biomedical signals (EEG, radar-based vital signs) to improve disease detection.
+- **Tensor Decomposition**: Tensor decomposition approaches to uncover hidden features in high-dimensional biomedical data.
 
 ## News
 - **Apr 2026**: Started an internship at [PRISME Laboratory](https://www.univ-orleans.fr/en/prisme).

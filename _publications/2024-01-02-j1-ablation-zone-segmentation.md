@@ -6,7 +6,7 @@ permalink: /publication/2024-j1-ablation-zone-segmentation
 excerpt: 'A semi-automatic method combining 3D nn-UNet and RITM interactive segmentation for precise liver ablation zone segmentation on CT images, achieving state-of-the-art performance.'
 date: 2024-10-01
 venue: 'Medical Physics'
-paperurl: 'https://doi.org/10.1002/mp.17431'
+paperurl: 'https://doi.org/10.1002/mp.17373'
 citation: '<b>Le Quoc Anh</b>, Xuan Loc Pham, Theo van Walsum, Viet Hang Dao, Tuan Linh Le, Daniel Franklin, Adriaan Moelker, Vu Ha Le, Nguyen Linh Trung, and Manh Ha Luu. &quot;Precise ablation zone segmentation on CT images after liver cancer ablation using semi-automatic CNN-based segmentation.&quot; <i>Medical Physics</i>, 51(12):8882–8899, 2024.'
 ---
 

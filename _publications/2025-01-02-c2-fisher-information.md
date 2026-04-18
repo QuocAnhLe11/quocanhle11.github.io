@@ -6,7 +6,7 @@ permalink: /publication/2025-c2-fisher-information
 excerpt: 'Fisher information-based metrics for improving representation learning in deep neural networks.'
 date: 2025-12-05
 venue: '2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)'
-paperurl: 'https://doi.org/10.1109/APSIPAASC63619.2025.10849000'
+paperurl: 'https://doi.org/10.1109/APSIPAASC65261.2025.11249166'
 citation: 'Do Nguyen Dang Thi, <b>Le Quoc Anh</b>, Tran Trong Duy, Le Vu Ha, and Nguyen Linh Trung. &quot;Fisher information-based metrics for representation learning.&quot; In <i>2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)</i>, pages 1556–1561, 2025.'
 ---
 
